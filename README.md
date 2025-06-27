@@ -1,27 +1,33 @@
 ```
-　　　　　　　　　　　　　　　　   //''""'"""//ｰ,,.
-　　　　　　　　　　　　,.,.,.,.,;/'　　　　　　　　"';
-　　　　　　　　 ,:''"'" 　　　　　　　　　　　　　　　"';
-　　　　　　　,:'"　　　　　　　　　　　　　　　　　　　　`';
-　　　　　,.,'"　　　//　　　　　　　　　　　　　　　\\　　 /
-　　　 ,;'"　　　　　　　　　　　　　　　　　　　　　\\ 　　 \
-　　　;　　　　　　　//　　　  //　　　　　　　　　\\　　　　\
-　　　;　　 　 , ､ 　 　\\　　　\　　　　　　　　\\　　　　\ \
-　　　\ __　 O 　　　　　　\\\　　　　　　\　　　　　\\　　  \
-　　  {   \,_____ 　　　　\　　　\\　　　　　　\\　　　　　 /
-　　  |`` } ,,,　,.,　　   　　　　　　　\\　　　　,. \  // 
-　　　 , `　　　　 ':;,　    　　　　　　　　,,,.,\\  .,.
-　　　　　　　　　　  ''-.,,,,..,.,...,,;,,::,:;;''"''"
-　　　　　　　　　　　          / /     / /
-　　　　　　　　　　　         / /     / /
-                         ___/ /  ___/ /
-                         ---, \  ---, \
-                           // \\   // \\
+              　　　　　　　　　　　　　　　　   //''""'"""//ｰ,,.
+              　　　　　　　　　　　　,.,.,.,.,;/'　　　　　　　　"';
+              　　　　　　　　 ,:''"'" 　　　　　　　　　　　　　　　"';
+              　　　　　　　,:'"　　　　　　　　　　　　　　　　　　　　`';
+              　　　　　,.,'"　　　//　　　　　　　　　　　　　　　\\　　 /
+              　　　 ,;'"　　　　　　　　　　　　　　　　　　　　　\\ 　　 \
+              　　　;　　　　　　　//　　　  //　　　　　　　　　\\　　　　\
+              　　　;　　 　 , ､ 　 　\\　　　\　　　　　　　　\\　　　　\ \
+              　　　\ __　 O 　　　　　　\\\　　　　　　\　　　　　\\　　  \
+              　　  {   \,_____ 　　　　\　　　\\　　　　　　\\　　　　　 /
+              　　  |`` } ,,,　,.,　　   　　　　　　　\\　　　　,. \  // 
+              　　　 , `　　　　 ':;,　    　　　　　　　　,,,.,\\  .,.
+              　　　　　　　　　　  ''-.,,,,..,.,...,,;,,::,:;;''"''"
+              　　　　　　　　　　　          / /     / /
+              　　　　　　　　　　　         / /     / /
+                                       ___/ /  ___/ /
+                                       ---, \  ---, \
+                                         // \\   // \\
 le peep
 ```
 
 <br></br>
 
+<h3>About</h3>
+Peep is a simple tool that allows you to toggle the opacity and background of your terminal in one command.
+
+<br></br>
+--------------------------------------------------------
+<h3>Installation and Use</h3>
 Run the following command to install peep: 
 
 ```bash
@@ -33,7 +39,6 @@ Use peep in Windows Terminal to toggle opacity.
 peep
 ```
 
-
 <br></br>
 
-If you like this project, let me know. I would be willing to expand this to more terminal emulators if there is demand for it.
+Peep only supports Windows Terminal for now. I would be willing to expand this to more terminal emulators if there is demand for it. If you like this project, let me know.
